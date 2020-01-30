@@ -80,7 +80,7 @@ clients, building control, council liaison officers, planning departments, Proje
 
 ## Blog
 
-The below link is my blog! I hope you enjoy it, it's just me laying out my thoughts.
+The following link is my blog! I hope you enjoy it, it's just me laying out my thoughts.
 www.foreverintransit.com/blog 
 
 ## Hobbies and other interesting things (I hope) about me
