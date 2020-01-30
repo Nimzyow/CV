@@ -16,6 +16,8 @@ React: I created many mini projects and I have even created a real full stack ME
 
 React Native: This was my entry into software development. My most recent React Native application on my repo is "Scuba_diver" using hooks and context as well as Node.js and Express.js. I created this application with the mindset of creating code that is easy to read and change. My first attempt at making an Engineering application for iOS and Android can be seen in my repo "iEngineer". It was again, a great learning experience and taught me many things. 
 
+Redux: My github repo "ITLogger" is a ITLogger application created with Redux for state management. "ReduxLearning" is a simple repo to teach me the basics of Redux.
+
 Javascript: As React and React Native uses Javascript and I have been programming with Javascript seriously for around a year, I believe I can call myself competant in this. I have also created a github repo called "javascript-kata" which I enter any interesting kata I do.
 
 #### This Skill
