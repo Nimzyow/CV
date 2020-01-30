@@ -78,7 +78,7 @@ and asset value from £50k to £1m.
 clients, building control, council liaison officers, planning departments, Project Managers and 3rd party contractors
 • Proactively trailed and implemented Autodesk Revit software to introduce BIM methodology for future projects.
 
-#### Blog
+## Blog
 
 The below link is my blog! I hope you enjoy it, it's just me laying out my thoughts.
 www.foreverintransit.com/blog 
