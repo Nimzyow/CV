@@ -46,6 +46,9 @@ Credential ID UC-370G30HA
 React Front to Back 2019
 Credential ID UC-GPN7KGZL
 
+Testing Ruby with RSpec: The Complete Guide
+UC-977106dc-164e-43e8-993a-98bfff3c3a3a
+
 #### Other courses completed
 
 Advanced Open Water Diver - PADI
