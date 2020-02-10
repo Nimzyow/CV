@@ -20,6 +20,8 @@ Redux: My github repo "ITLogger" is a ITLogger application created with Redux fo
 
 Javascript: As React and React Native uses Javascript and I have been programming with Javascript seriously for around a year, I believe I can call myself competant in this. I have also created a github repo called "javascript-kata" which I enter any interesting kata I do.
 
+TDD with RSpec: Having taken a course on TDD with Ruby, I decided to experiment with a variety of different matchers which can be seen on the repo "rspec_practice". After experimenting with simple examples, I took on a more complicated example, recreating the PADI Scuba diving table using RSpec and Ruby. This can be found on the repo "scuba_diver_tdd".
+
 #### Makers Academy (February 2020 to in progress)
 
 - OOP, TDD, MVC, DDD
@@ -47,7 +49,7 @@ React Front to Back 2019
 Credential ID UC-GPN7KGZL
 
 Testing Ruby with RSpec: The Complete Guide
-UC-977106dc-164e-43e8-993a-98bfff3c3a3a
+Credential ID UC-977106dc-164e-43e8-993a-98bfff3c3a3a
 
 #### Other courses completed
 
