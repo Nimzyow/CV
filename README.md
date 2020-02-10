@@ -65,8 +65,11 @@ Enriched Air Diver - PADI
 Full Stack Engineer  
 
 • Built a full stack web application based on Client database management in React
+
 • Created the backend using Javascript and Node.js with Express.
+
 • Created the REST API to connect to MongoDB using Node.js and Express.
+
 • Created the frontend using React.
 • I planned and designed the UI with input from staff regarding how they felt it should look like.
 • Enabled staff to add, edit and update clients
