@@ -107,4 +107,4 @@ I can speak Japanese to a near fluent level and have many friends in Japan who I
 
 Travel is probably a typical hobby that everyone has to put on their list. However, it really is something I love to do as it allows me to experience different cultures and people and to learn things from them. I often come back with a new perspective in life and a new way of looking at things.
 
-Photography and the art of photography is something that really inspires me. I have a website www.foreverintransit.com which showcases some of my photography. My instagram is more up to date though and you can see that in the website I just linked. There is a real rush whenever I decide to go out with just my camera and explore the city of London. 
+Photography and the art of photography is something that really inspires me. I have a website www.foreverintransit.com which showcases some of my photography. My instagram is more up to date though and you can see that in the website I just linked.
