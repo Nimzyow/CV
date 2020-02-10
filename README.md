@@ -71,19 +71,27 @@ Full Stack Engineer
 • Created the REST API to connect to MongoDB using Node.js and Express.
 
 • Created the frontend using React.
+
 • I planned and designed the UI with input from staff regarding how they felt it should look like.
+
 • Enabled staff to add, edit and update clients
+
 • Implemented a task feature to add individual tasks to each client.
+
 • Implemented a search functionality to be able to filter through clients based on project description and other parameters.
+
 • To make code more readable, I refactored the code from class based components to functional components using Hooks and Context.
+
 • Currently working on the React Native version of the same application.
 
 **Civil Engineers Ltd** (August 2012 to December 2019)   
 *Structural Engineer*  
 • Working as part of a team on up to 12 commercial and residential projects per month, ranging in Capex investment
 and asset value from £50k to £1m.
+
 • Fostering sustainable relationships with a range of stakeholders, organisations and business partners including
 clients, building control, council liaison officers, planning departments, Project Managers and 3rd party contractors
+
 • Proactively trailed and implemented Autodesk Revit software to introduce BIM methodology for future projects.
 
 ## Blog
