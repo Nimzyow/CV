@@ -117,6 +117,7 @@ The firms handling of client information required modernising. I developed a ful
 Languages, Frameworks and Tools: React, Hooks and Context, JavaScript, Node.js, Express.js, MongoDB. Currently planning on the React Native version of the same application.
 
 `Civil Engineers Ltd (August 2012 to December 2019)`
+
 _Structural Engineer_
 
 Worked as part of a team on up to 12 commercial and residential projects a month ranging in Capex investment and asset value from £50k to £1m.
