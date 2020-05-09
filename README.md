@@ -36,35 +36,35 @@ If I could endulge in a little bit of self endulgence I think the skills I would
 
 ### Node, Express and React:
 
-I created a full stack MERN application which can be seen on my repo called "client_database_management". I used hooks and context for better readability and state management. I also used Node.js, Express.js and MongoDB for the backend.
+I created a full stack MERN application which can be seen in my repo: [client_database_management](https://github.com/Nimzyow/client_database_management). I used hooks and context for better readability and state management. I also used Node.js, Express.js and MongoDB for the backend.
 
-During Makers we were asked to make a thermostat web application with Jquery and testing in Jasmine. I decided to take that idea and use Node.js, Express.js and SQlite for the backend and use React for the front. The TDD approach was taken using Jest and Enzyme for unit testing and Cypress for feature testing. this repo is called "thermostat_node_react".
+During Makers we were asked to make a thermostat web application with Jquery and testing in Jasmine. I decided to take that idea and use Node.js, Express.js and SQlite for the backend and use React for the front. The TDD approach was taken using Jest and Enzyme for unit testing and Cypress for feature testing. [thermostat_node_react](https://github.com/Nimzyow/thermostat_node_react)
 
-Other React applications on my repo include "githubfinder" and "StructureReport". StructureReport was my first time creating a React application, so it's rough but the roughness taught me many things. I keep it there to remind me where I started from and how far I've come.
+Other React applications on my repo include [githubfinder](https://github.com/Nimzyow/githubfinder) and [StructureReport](https://github.com/Nimzyow/StructureReport). StructureReport was my first time creating a React application, so it's rough but the roughness taught me many things. I keep it there to remind me where I started from and how far I've come.
+
+### Ruby on Rails and React
+
+As part of our final project in Makers, we were tasked with creating an application to present to a live audience in just over a week. This project, called DateSpot, was challenging not just from a technical perspective, but from the perspective of working in a team enviornment and getting the best out of everyone in the team. Overall, we were very successful and created an awesome application with the backend done on Ruby on Rails, set up as an API and the frontend being done entirely in React with Reacts Context API for state management. The link to the repo: [DateSpot](https://github.com/rafahg/travel-final-project). The presentation for this project can be found on the following link just after the 3 minute mark: [Presentation](https://www.facebook.com/watch/live/?v=1854532374684301&ref=watch_permalink)
 
 ### React Native:
 
-React Native was my entry into software development. My most recent React Native application on my repo is "Scuba_diver". I used hooks and context to develop this application . This application was created with the mindset of creating code that is easy to read and change.
+React Native was my entry into software development. My most recent React Native application on my repo is [Scuba_diver](https://github.com/Nimzyow/Scuba_Diver). I used hooks and context to develop this application . This application was created with the mindset of creating code that is easy to read and change.
 
 My first attempt at making an Engineering application for iOS and Android can be seen in my repo "iEngineer". It was a great learning experience and taught me many things, particularly about the horrors of not keeping clean code. Again, I kept this repo there to remind myself how I started.
 
 ### Redux:
 
-My github repo "ITLogger" is a ITLogger application created with Redux for state management. It was created to dimystify the whole process of Redux. "ReduxLearning" is a simple repo created to internalize the basics of Redux.
-
-### Javascript:
-
-As React and React Native uses Javascript and I have been programming with Javascript seriously for around a year. I have also created a github repo called "javascript-kata" which I enter any interesting kata I do.
+The repo [ITLogger](https://github.com/Nimzyow/ITLogger) is a ITLogger application created with Redux for state management. It was created to dimystify the whole process of Redux. [ReduxLearning](https://github.com/Nimzyow/ReduxLearning) is a simple repo created to internalize the basics of Redux.
 
 ### TDD:
 
-Having taken a course on TDD with Ruby, I decided to experiment with a variety of different matchers which can be seen on the repo "rspec_practice".
+Having taken a course on TDD with Ruby, I decided to experiment with a variety of different matchers which can be seen on the repo [rspec_practice](https://github.com/Nimzyow/rspec_practice).
 
-After that, I took on a more complicated example, recreating the PADI Scuba diving table using RSpec and Ruby. This can be found on the repo "scuba_diver_tdd".
+After that, I took on a more complicated example, recreating the PADI Scuba diving table using RSpec and Ruby. This can be found on the repo [scuba_diver_tdd](https://github.com/Nimzyow/scuba_diver_tdd).
 
 At Makers we had to create a thermostat app using Javascript, HTML and CSS but though a TDD approach using Jasmine. The skills I learnt from RSpec were easily transfarable to Jasmine which helped me get to grips with TDD with Jasmine very quickly.
 
-The repo "thermostat_node_react" demonstrates my ability to thoroughly test a React application with Cypress, Jest and Enzyme. Since the approach to testing with Jest and Enzyme is different to how I usually tested with RSpec and Jasmine, it was challenging but interesting at the same time. Once I understood the concept of shallow rendering, the process of unit testing a React application became second nature. Cypress also allowed me to feature test my application and since its use is very similar to Capybara, I was able to get to grips with Cypress very quickly and was testing away in no time.
+The repo [thermostat_node_react](https://github.com/Nimzyow/thermostat_node_react) demonstrates my ability to thoroughly test a React application with Cypress, Jest and Enzyme. Since the approach to testing with Jest and Enzyme is different to how I usually tested with RSpec and Jasmine, it was challenging but interesting at the same time. Once I understood the concept of shallow rendering, the process of unit testing a React application became second nature. Cypress also allowed me to feature test my application and since its use is very similar to Capybara, I was able to get to grips with Cypress very quickly and was testing away in no time.
 
 ## Education
 
