@@ -26,9 +26,11 @@ I finsihed a 16 week intensive bootcamp at Makers Academy to help fill in any kn
 
 TDD was somewhat of an eye opener as the whole concept of testing was just alien to me. Throughout the course I made TDD into a strong point of mine through materials given by Makers and through my own self led study, which even included me completing online courses on TDD. I now approach every application I make with TDD at the forefront.
 
-We take part in pair programming every single day which involves tackling a week long challenge with a different pairing partner for each day. This presents a set of unique challenges for us as we are forced to work with people from different backgrounds and different viewpoints within a short space of time. In these pair programming sessions it's important we learn to adapt, communicate clearly and effectively and to practice empathy with one another. It is an extraordinary experience and has given me a surge of confidence when working with people. I believe this is what I value most from my time so far at Makers.
+We took part in pair programming every single day which involves tackling a week long challenge with a different pairing partner for each day. This presented a set of unique challenges for us as we are forced to work with people from different backgrounds and different viewpoints within a short space of time. In these pair programming sessions it's important we learn to adapt, communicate clearly and effectively and to practice empathy with one another. It is an extraordinary experience and has given me a surge of confidence when working with people. I believe this is what I value most from my time at Makers.
 
-We are also tasked with working on group projects which involves us being placed in a random group of 4,5 or 6 people and to figure out how we make certain web applications. This experience was invaluable as much of my work has either been done in pairs or on my own. The final project of Makers took us through a rollercoaster of a journey revealing the highs and lows of a team working environment. It involved us coordinating our thoughts, our approach, planning together, having an end of day retro everyday, assigning tasks that need completing each day, having disagreements and resolving those, oh and it involved us making a really cool application and presenting it, live! You can check the presentation out on this [link](https://www.facebook.com/watch/live/?v=1854532374684301&ref=watch_permalink) where my group presents just after the 3 minute mark. This brief taste of what it's like to work in a team environment has further reinforced my desire to work in this industry.
+We are also tasked with working on group projects which involves us being placed in a random group of 4,5 or 6 people and to figure out how we make certain web applications. This experience was invaluable as much of my work has either been done in pairs or on my own. 
+
+The final project of Makers took us through a rollercoaster of a journey revealing the highs and lows of a team working environment. It involved us coordinating our thoughts, our approach, planning together, having an end of day retro everyday, assigning tasks that need completing each day, having disagreements and resolving those, oh and it involved us making a really cool application and presenting it, live! You can check the presentation out on this [link](https://www.facebook.com/watch/live/?v=1854532374684301&ref=watch_permalink) where my group presents just after the 3 minute mark. This brief taste of what it's like to work in a team environment has further reinforced my desire to work in this industry.
 
 ## Skills with Repo reference
 
@@ -167,8 +169,14 @@ www.foreverintransit.com/blog
 
 I absolutely adore Scuba Diving and if I ever go on vacation, some scuba diving has to be involved! It is a real passion of mine and I adore looking at the different marine life and learning about them. Ship wrecks are also awesome and they fascinate me to no end!
 
+![scuba](https://github.com/Nimzyow/CV/raw/master/media/PA280059rr.JPG)
+
 I can speak Japanese to a near fluent level and have many friends in Japan who I love talking to. I learnt Japanese bit by bit over a number of years and I became obsessed with improving myself. This led to me making life long friends who I love dearly.
+
+![travel](https://github.com/Nimzyow/CV/raw/master/media/P1010822.jpg)
 
 Travel is probably a typical hobby that everyone has to put on their list. However, it really is something I love to do as it allows me to experience different cultures and people and to learn things from them. I often come back with a new perspective in life and a new way of looking at things.
 
 Photography and the art of photography is something that really inspires me. I have a website www.foreverintransit.com which showcases some of my photography. My instagram is more up to date though and you can see that in the website I just linked.
+
+![street](https://github.com/Nimzyow/CV/raw/master/media/DSC03703.jpg)
