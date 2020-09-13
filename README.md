@@ -4,13 +4,13 @@ My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell f
 
 ## Table of content
 
-- [My past](#my-past)
-- [What I'm doing now](#what-i'm-doing-now)
-- [Skills with Repo reference](#skills-with-repo-reference)
-- [Education](#education)
-- [Experience](#experience)
-- [Blog](#blog)
-- [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
+-   [My past](#my-past)
+-   [What I'm doing now](#what-i'm-doing-now)
+-   [Skills with Repo reference](#skills-with-repo-reference)
+-   [Education](#education)
+-   [Experience](#experience)
+-   [Blog](#blog)
+-   [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
 
 ## Projects
 
@@ -31,7 +31,9 @@ Now, to get to what I've been up to these past few years. I was working as a Str
 
 ## What I'm doing now
 
-I finsihed a 16 week intensive bootcamp at Makers Academy to help fill in any knowledge gaps I have. They follow a TDD approach and they believe very strongly in the idea of collobaration through teamwork and pair programming.
+I am currently a full stack software engineer at Ripple Energy. It's a fantastic working environment and we are encouraged to grow and make ourselves better everyday. I have taken the opportunity to upgrade my skills in React by working on it intensely within a commerical environmnet. I have also been encouraged to expand my skills and work in the backend which is a challenge since I have never worked with Django or Python prior to Ripple. However, my strongest skill of self learning has enabled me to take this challenge head on and I am making good progress with Django and Python.
+
+Prior to working at Ripple Energy I finished a 16 week intensive bootcamp at Makers Academy to help fill in any knowledge gaps I have. They follow a TDD approach and they believe very strongly in the idea of collobaration through teamwork and pair programming.
 
 TDD was somewhat of an eye opener as the whole concept of testing was just alien to me. Throughout the course I made TDD into a strong point of mine through materials given by Makers and through my own self led study, which even included me completing online courses on TDD. I now approach every application I make with TDD at the forefront.
 
@@ -71,22 +73,22 @@ The repo [ITLogger](https://github.com/Nimzyow/ITLogger) is a ITLogger applicati
 
 ### Makers Academy (February 2020 to May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, HTML, CSS, React
-- RSpec, Jasmine, Cypress, Jest and Enzyme
-- MongoDB, Sequelize, SQL, PostgreSQL, sqlite
+-   OOP, TDD, MVC, DDD
+-   Agile/XP
+-   Ruby, Rails, JavaScript, HTML, CSS, React
+-   RSpec, Jasmine, Cypress, Jest and Enzyme
+-   MongoDB, Sequelize, SQL, PostgreSQL, sqlite
 
 ### University of East London / College (2007 to 2011)
 
-- BEng Civil Engineering
-- 1st class
-- Started the UEL Civil Engineering society
+-   BEng Civil Engineering
+-   1st class
+-   Started the UEL Civil Engineering society
 
 ### University of East London / College (2011 to 2012)
 
-- MSc Structural Engineering
-- Merit
+-   MSc Structural Engineering
+-   Merit
 
 ### Udemy courses completed
 
@@ -108,6 +110,12 @@ Digital underwater photographer - PADI
 Enriched Air Diver - PADI
 
 ## Experience
+
+### Ripple Energy (August 2020 - present)
+
+_Full stack software engineer_
+
+Currently working as a Full stack software engineer and making a difference in the clean energy sector through code. It is a dynamic working environment where we are encouraged to self learn and take charge of our code, the emphasis being clean, maintainable and readable code.
 
 ### Freelance (Feb 2020 to May 2020)
 
