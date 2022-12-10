@@ -1,6 +1,6 @@
 # A little about me
 
-My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell for others. I'm a highly driven developer/engineer with a passion for AWS infrastructure, AWS Architecture and serverless development. My ability to learn and absorb information has led met to pursue and develop my skills within the AWS space. I have recently gained qualification as a AWS Solutions architect - associate and have taken on responsibilities for managing and advising on cloud infrastructure within Ripple Energy. I also champion and develop serverless architectures for the different services at Ripple Energy to drive down costs, increase scalability and resiliency as well as improving on security for our cloud infrastructure.
+My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell for others. I'm a highly driven developer/engineer with a passion for AWS infrastructure, AWS Architecture and serverless development. My ability to learn and absorb information has led met to pursue and develop my skills within the AWS space. I have recently gained qualification as a AWS Certified Solutions architect - associate and have taken on responsibilities for managing and advising on cloud infrastructure within Ripple Energy. I also champion and develop serverless architectures for the different services at Ripple Energy to drive down costs, increase scalability and resiliency as well as improving on security for our cloud infrastructure.
 
 ## Table of content
 
@@ -10,6 +10,7 @@ My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell f
 - [Education](#education)
 - [Experience](#experience)
 - [Blog](#blog)
+- [Certifications](#certifications)
 - [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
 
 ## Projects
@@ -37,15 +38,13 @@ Working for a fast moving startup like Ripple Energy for 2 years as a Full Stack
 
 I spear headed and implemented Ripple Energy’s first and subsequent serverless microservices solutions by writing infrastructure as code using SAM template files. This has enabled us to easily create scalable and secure cloud resources while following the principles of least privilege when creating IAM policies, all while saving on costs.
 
-I'm a qualified AWS Solutions Architect - associate and am actively working towards a qualification for AWS Certified Developer - associate. The more I delve into the Serverless world the more I geek out over the fact that I can create an ecosystem where a developer only has to worry about code and not infrastructure. I'm constantly fascinated by how I can make different services work together to create a cost effective, highly scalable and durable infrastructure for web applications that live in the cloud. My hope is to be working more in this field in the future.
+I'm a qualified AWS Certified Solutions Architect - associate and am actively working towards a qualification for AWS Certified Developer - associate. The more I delve into the Serverless world the more I geek out over the fact that I can create an ecosystem where a developer only has to worry about code and not infrastructure. I'm constantly fascinated by how I can make different services work together to create a cost effective, highly scalable and durable infrastructure for web applications that live in the cloud. My hope is to be working more in this field in the future.
 
 ## Skills with Repo reference
 
-If I could indulge in a little bit of self indulgence I think the skills I would highlight are:
-
 ### AWS Serverless access keys rotation
 
-After passing the AWS Solutions Architect - associate exam, I felt that I wanted to use my skills in a meaningful way, straight away. After making an assessment on security regarding our cloud infrastructure, I felt it was necessary to automate our AWS Access keys to follow security best practices.
+After passing the AWS Certified Solutions Architect - associate exam, I felt that I wanted to use my skills in a meaningful way, straight away. After making an assessment on security regarding our cloud infrastructure, I felt it was necessary to automate our AWS Access keys to follow security best practices.
 
 I decided this would be a fantastic first dip into the serverless world and I decided to create: [AWS Serverless access keys rotation](https://github.com/Nimzyow/aws-serverless-access-keys-rotation).
 
@@ -184,10 +183,11 @@ Worked as part of a team on up to 12 commercial and residential projects a month
 
 ✓ Time needed to complete each project was cut back, on average, from a week to only one day.
 
-## Blog
+## Certifications
 
-The following link is my blog! I hope you enjoy it, it's just me laying out my thoughts.
-www.foreverintransit.com/blog
+AWS Certified Solutions Architect - associate - Oct 2022
+
+AWS Certified Developer - Associate - Currently studying for
 
 ## Hobbies and other interesting things
 
