@@ -1,6 +1,6 @@
 # A little about me
 
-My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell for others. I'm a highly driven JavaScript developer with a passion for React and React Native. My ability to learn and absorb information has led met to pursue the latest technologies while maintaining clean and understandable code.
+My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell for others. I'm a highly driven developer/engineer with a passion for AWS infrastructure, AWS Architecture and serverless development. My ability to learn and absorb information has led met to pursue and develop my skills within the AWS space. I have recently gained qualification as a AWS Solutions architect - associate and have taken on responsibilities for managing and advising on cloud infrastructure within Ripple Energy. I also champion and develop serverless architectures for the different services at Ripple Energy to drive down costs, increase scalability and resiliency as well as improving on security for our cloud infrastructure.
 
 ## Table of content
 
