@@ -8,9 +8,9 @@ My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell f
 - [What I'm doing now](#what-i'm-doing-now)
 - [Skills with Repo reference](#skills-with-repo-reference)
 - [Education](#education)
+- [Certifications](#certifications)
 - [Experience](#experience)
 - [Blog](#blog)
-- [Certifications](#certifications)
 - [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
 
 ## Projects
@@ -122,13 +122,34 @@ Digital underwater photographer - PADI
 
 Enriched Air Diver - PADI
 
+## Certifications
+
+AWS Certified Solutions Architect - associate - Oct 2022
+AWS Certified Developer - Associate - Currently studying for
+
 ## Experience
 
 ### Ripple Energy (August 2020 - present)
 
 _Full stack software engineer_
 
-Currently working as a Full stack software engineer and making a difference in the clean energy sector through code. It is a dynamic working environment where we are encouraged to self learn and take charge of our code, the emphasis being clean, maintainable and readable code.
+Ripple Energy is a start-up that enables the everyday person to be part owners of wind farms. I am part of the development team that involves delivering new features during times of quick and rapid growth. Achievements include:
+
+✓ After being certified as a AWS Solutions Architect - associate, I lead Ripple Energy’s first and subsequent serverless microservices solutions using SAM templates to provision infrastructure as code. This included an overhaul of our AWS account infrastructure to map accounts to dev environments.
+
+This made security easy for production resources with restricted access through IAM Roles. Using SAM templates, we deployed various cloud resources in a scalable and secure manner, all while saving on costs.
+
+✓ Spear headed and completed conversion of our REST API to GraphQL. This has increased productivity and dramatically improved the developer experience.
+
+✓ Campaigned for and successfully converted our frontend React JavaScript to React TypeScript. This includes automatic synchronisation of backend schema types to frontend TypeScript types, eliminating manual maintenance of types, dramatically reducing the chance of bugs due to type mismatch.
+
+✓ Introduced unit testing through TDD for Django with Graphene to enable testing of our GraphQL schema. I also implemented these tests in the Bitbucket CI/CD pipeline which has helped catch bugs getting deployed to production.
+
+✓ Introduced and enforced pre commit hooks to check that the backend schema and frontend TypeScript types are in sync, check for linting errors and check for TypeScript errors. This removed the ability to commit site breaking code.
+
+✓ Delivered features in a timely manner whilst maintaining clean and easy to read code with testing. Examples of features include, but not limited to: FAQs (full stack), members dashboard revamp (full stack), public site revamp (frontend), CRM for certain staff to check member status (full stack), enabling Google Single Sign on (full stack).
+
+Languages, Frameworks and Tools: Serverless Computing, AWS SAM, TypeScript, GraphQL
 
 ### Freelance (Feb 2020 to May 2020)
 
@@ -182,12 +203,6 @@ Worked as part of a team on up to 12 commercial and residential projects a month
 ✓ Taught staff the benefits of using the newer technologies introduced and guided them on how to efficiently use them.
 
 ✓ Time needed to complete each project was cut back, on average, from a week to only one day.
-
-## Certifications
-
-AWS Certified Solutions Architect - associate - Oct 2022
-
-AWS Certified Developer - Associate - Currently studying for
 
 ## Hobbies and other interesting things
 
