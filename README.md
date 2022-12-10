@@ -4,48 +4,62 @@ My name is Nima Soufiani, I know, kind of a rare name and a nightmare to spell f
 
 ## Table of content
 
--   [My past](#my-past)
--   [What I'm doing now](#what-i'm-doing-now)
--   [Skills with Repo reference](#skills-with-repo-reference)
--   [Education](#education)
--   [Experience](#experience)
--   [Blog](#blog)
--   [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
+- [My past](#my-past)
+- [What I'm doing now](#what-i'm-doing-now)
+- [Skills with Repo reference](#skills-with-repo-reference)
+- [Education](#education)
+- [Experience](#experience)
+- [Blog](#blog)
+- [Hobbies and other interesting things](#hobbies-and-other-interesting-things)
 
 ## Projects
 
-| <p align="center">Project</p>                    | <p align="center">Description</p>                                                                                                                                                                                                                                                   | <p align="center">Tech stack</p>                                                         | <p align="center">Link</p>                                                                                                                |
-| :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center">DateSpot</p>                   | <p align="center">An application that provides a user with great dating locations. Each DateSpot is curated to guarantee a good time. An application to demonstrate my proficiency with creating a full stack JS application through TDD</p>                                        | <p align="center">React, Redux, Node, Express, Jest, Enzyme, Supertest, Chai, Mocha </p> | <a href="https://github.com/Nimzyow/datespot" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>                   |
-| <p align="center">DateSpot React-Native</p>      | <p align="center">The React-Native version of DateSpot. I wanted to prove that I could pick up a new testing framework, react-native-testing-library and TDD DateSpot with React Native. Not only did I manage that but I got the app working on a phone which was pretty cool!</p> | <p align="center">React Native, Redux, Jest, react-native-testing-library</p>            | <a href="https://github.com/Nimzyow/datespot-reactnative" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>       |
-| Thermostat                                       | This was a passion project inspired by a Makers Academy Thermostat challenge. I decided to challenge myself by completing this challenge with Node.js and Express.js for the backend and React for the front end.                                                                   | React, Node, Express, Jest and Enzyme, Cypress                                           | <a href="https://github.com/Nimzyow/thermostat_node_react" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>      |
-| <p align="center">Client Database Management</p> | <p align="center">A full stack React application made to manage clients and tasks for clients. Made to save time and to efficiently search for clients based on name, email and project description.</p>                                                                            | <p align="center">React, Node, Express, Context, Materialize</p>                         | <a href="https://github.com/Nimzyow/client_database_management" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a> |
+| <p align="center">Project</p>                             | <p align="center">Description</p>                                                                                                                                                                                                                                                   | <p align="center">Tech stack</p>                                                                                              | <p align="center">Link</p>                                                                                                                         |
+| :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center">AWS Serverless access keys rotation</p> | <p align="center">It is good security practice to rotate your AWS Access keys. Why not automate this process and make use of some of the awesome services AWS has to offer?</p>                                                                                                     | <p align="center">SAM, Lambda, SQS, SES, SNS, DynamoDB, Cloudwatch Scheduled events, Secrets Manager, IAM Resource policy</p> | <a href="https://github.com/Nimzyow/aws-serverless-access-keys-rotation" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a> |
+| <p align="center">DateSpot React-Native</p>               | <p align="center">The React-Native version of DateSpot. I wanted to prove that I could pick up a new testing framework, react-native-testing-library and TDD DateSpot with React Native. Not only did I manage that but I got the app working on a phone which was pretty cool!</p> | <p align="center">React Native, Redux, Jest, react-native-testing-library</p>                                                 | <a href="https://github.com/Nimzyow/datespot-reactnative" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>                |
+| Thermostat                                                | This was a passion project inspired by a Makers Academy Thermostat challenge. I decided to challenge myself by completing this challenge with Node.js and Express.js for the backend and React for the front end.                                                                   | React, Node, Express, Jest and Enzyme, Cypress                                                                                | <a href="https://github.com/Nimzyow/thermostat_node_react" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>               |
+| <p align="center">Client Database Management</p>          | <p align="center">A full stack React application made to manage clients and tasks for clients. Made to save time and to efficiently search for clients based on name, email and project description.</p>                                                                            | <p align="center">React, Node, Express, Context, Materialize</p>                                                              | <a href="https://github.com/Nimzyow/client_database_management" rel="some text"><img src="https://github.com/favicon.ico" width="48"></a>          |
 
 ## My past
 
-I have been programming as a hobby which I have taken much more seriously within the past year. I created many mini projects for myself to practice with...I know, I have way too much time on my hands, and this ignited my passion for React and React Native. Working with React Native was my gateway to the software development bug...not a programming bug but the enjoyment kind of bug!
+During one of my many travels to Japan, I came across as a software developer working in Silicon Valley in 2018. After expressing my interest in software development and showing him my attempt at creating a Scuba Diving application for mobile with Unity and C# (I didn't know any better at the time), he showed me React Native and briefly gave me a rundown of what I needed to learn if I wanted a career as a Software Engineer.
 
-I loved working with new technologies and I loved how code that I type have a real effect on people. With the power of coding, I can save countless hours of work for someone, I can create a client database for someone who's storing information inefficiently (check out my full stack MERN application I did in my repo ["client_database_management"](https://github.com/Nimzyow/client_database_management)) and I can do whatever I imagine. It really fuelled my creativity and brought me joy.
+After that fateful day, I very quickly became hooked on coding, like it was my true calling. I was endlessly sitting in cafes, going through Udemy courses like some prime time Netflix show and endlessly creating, testing and experimenting with different technologies.
 
-Now, to get to what I've been up to these past few years. I was working as a Structural Engineer ever since I graduated from University for my family company. We did all of the architectural design and strucutral of buildings varying from small bungalows to multi storey apartments. It was a good experience and I got stuck into property developement too! It was good, however, it was never a real passion of mine as the hobby I was doing on the side, that would be programming in case you were wondering, kept me more fulfilled and engaged.
+Soon after, I finished a 16 week intensive bootcamp at Makers Academy to help fill in any knowledge gaps I have. They follow a TDD approach and they believe very strongly in the idea of collobaration through teamwork and pair programming.
 
 ## What I'm doing now
 
-I am currently a full stack software engineer at Ripple Energy. It's a fantastic working environment and we are encouraged to grow and make ourselves better everyday. I have taken the opportunity to upgrade my skills in React by working on it intensely within a commerical environmnet. I have also been encouraged to expand my skills and work in the backend which is a challenge since I have never worked with Django or Python prior to Ripple. However, my strongest skill of self learning has enabled me to take this challenge head on and I am making good progress with Django and Python.
+Fast forward to now I'm proud to have now become a highly capable Full Stack developer with a passion for AWS serverless computing. I now regularly spend my time spinning up lambda functions and creating queues doing all sorts of compute triggered by all sorts of events.
 
-Prior to working at Ripple Energy I finished a 16 week intensive bootcamp at Makers Academy to help fill in any knowledge gaps I have. They follow a TDD approach and they believe very strongly in the idea of collobaration through teamwork and pair programming.
+Working for a fast moving startup like Ripple Energy for 2 years as a Full Stack Software Engineer, I have had the unique opportunity to play a big part in the development process and modernise different areas of the codebase from frontend, backend to DevOps including utilisation of AWS services such as EKS, S3, EC2, Lambda, SQS, SNS, IAM and more.
 
-TDD was somewhat of an eye opener as the whole concept of testing was just alien to me. Throughout the course I made TDD into a strong point of mine through materials given by Makers and through my own self led study, which even included me completing online courses on TDD. I now approach every application I make with TDD at the forefront.
+I spear headed and implemented Ripple Energy’s first and subsequent serverless microservices solutions by writing infrastructure as code using SAM template files. This has enabled us to easily create scalable and secure cloud resources while following the principles of least privilege when creating IAM policies, all while saving on costs.
 
-We took part in pair programming every single day which involves tackling a week long challenge with a different pairing partner for each day. This presented a set of unique challenges for us as we are forced to work with people from different backgrounds and different viewpoints within a short space of time. In these pair programming sessions it's important we learn to adapt, communicate clearly and effectively and to practice empathy with one another. It is an extraordinary experience and has given me a surge of confidence when working with people. I believe this is what I value most from my time at Makers.
-
-We are also tasked with working on group projects which involves us being placed in a random group of 4,5 or 6 people and to figure out how we make certain web applications. This experience was invaluable as much of my work has either been done in pairs or on my own.
-
-The final project of Makers took us through a rollercoaster of a journey revealing the highs and lows of a team working environment. It involved us coordinating our thoughts, our approach, planning together, having an end of day retro everyday, assigning tasks that need completing each day, having disagreements and resolving those, oh and it involved us making a really cool application and presenting it, live! You can check the presentation out on this [link](https://www.facebook.com/watch/live/?v=1854532374684301&ref=watch_permalink) where my group presents just after the 3 minute mark. This brief taste of what it's like to work in a team environment has further reinforced my desire to work in this industry.
+I'm a qualified AWS Solutions Architect - associate and am actively working towards a qualification for AWS Certified Developer - associate. The more I delve into the Serverless world the more I geek out over the fact that I can create an ecosystem where a developer only has to worry about code and not infrastructure. I'm constantly fascinated by how I can make different services work together to create a cost effective, highly scalable and durable infrastructure for web applications that live in the cloud. My hope is to be working more in this field in the future.
 
 ## Skills with Repo reference
 
-If I could endulge in a little bit of self endulgence I think the skills I would highlight are:
+If I could indulge in a little bit of self indulgence I think the skills I would highlight are:
+
+### AWS Serverless access keys rotation
+
+After passing the AWS Solutions Architect - associate exam, I felt that I wanted to use my skills in a meaningful way, straight away. After making an assessment on security regarding our cloud infrastructure, I felt it was necessary to automate our AWS Access keys to follow security best practices.
+
+I decided this would be a fantastic first dip into the serverless world and I decided to create: [AWS Serverless access keys rotation](https://github.com/Nimzyow/aws-serverless-access-keys-rotation).
+
+There were many services that were of interest to me such as SQS, SNS, SES, Lambda etc.. and I was eager to experiment with these services by writing a SAM template file. But first, I had to diagram the architecture out, which I have included in the repo. After that, it was onto writing SAM template files.
+
+This was a great lesson in writing infrastructure as code. I had a lot of fun creating resources for lambda functions, SQS queues, SNS topics, DynamoDB table, SES and a Cloudwatch Schedule event. I also made extensive use of the @aws-sdk to write my lambda functions.
+
+I also developed the Github Actions flow with the help of the `sam pipeline` to automate safe deployments from my staging to production account.
+
+This project was also unit tested using jest unit testing and the lambda functions were written in TypeScript to increase resiliency within the lambda functions.
+
+Plans for the future is to convert this project into step functions as I feel step functions are a more appropriate solution to the many Lambda + SQS queues that are currently here. But one learns from repetition which is why it was architected the way it was.
+
+Overall, this was a great first taste into the serverless world and this project really got me eager to do more projects within the AWS ecosystem.
 
 ### Node, Express and React:
 
@@ -73,22 +87,22 @@ The repo [ITLogger](https://github.com/Nimzyow/ITLogger) is a ITLogger applicati
 
 ### Makers Academy (February 2020 to May 2020)
 
--   OOP, TDD, MVC, DDD
--   Agile/XP
--   Ruby, Rails, JavaScript, HTML, CSS, React
--   RSpec, Jasmine, Cypress, Jest and Enzyme
--   MongoDB, Sequelize, SQL, PostgreSQL, sqlite
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript, HTML, CSS, React
+- RSpec, Jasmine, Cypress, Jest and Enzyme
+- MongoDB, Sequelize, SQL, PostgreSQL, sqlite
 
 ### University of East London / College (2007 to 2011)
 
--   BEng Civil Engineering
--   1st class
--   Started the UEL Civil Engineering society
+- BEng Civil Engineering
+- 1st class
+- Started the UEL Civil Engineering society
 
 ### University of East London / College (2011 to 2012)
 
--   MSc Structural Engineering
--   Merit
+- MSc Structural Engineering
+- Merit
 
 ### Udemy courses completed
 
