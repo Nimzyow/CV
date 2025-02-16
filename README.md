@@ -44,7 +44,7 @@
 ## 💼 Professional Journey
 
 ### 🏢 Senior Software Engineer @ Vocalink (Mastercard)
-*Current Position*
+*May 2023 - Present*
 
 #### ✨ Key Achievements:
 - Developed and maintained a critical internal automation tool that reduced project migration time from 700 hours to 1 hour, now used across multiple Mastercard teams
