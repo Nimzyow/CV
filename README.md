@@ -125,7 +125,9 @@
 
 <div align="center">
 
-🤖 AI & Machine Learning • 🛠 Infrastructure Automation • 🤿 Scuba Diving
+🤖 AI & Machine Learning • 🛠 Infrastructure Automation • 🤿 Scuba Diving • 📸 [Photography](https://www.instagram.com/foreverintransit/)
+
+<img src="media/scuba.JPG" alt="Scuba Diving" width="400"/>
 
 </div>
 
